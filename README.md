@@ -1,2 +1,1 @@
-# verify-repository
-Testing my ways for verifying repository
+This is my Readme.md file.
